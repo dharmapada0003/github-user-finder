@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dharmapada0003.github.io/github-user-finder/sitemap.xml
